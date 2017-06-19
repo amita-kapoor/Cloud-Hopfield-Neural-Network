@@ -5,3 +5,7 @@ In CHNN retreival algorithm, we first divide the HNN in to cloud, with each clou
 
 Our results demonstrate that when we present the network with higher distortion in the corrupted version of the fundamental pattern the time taken to converge to the correct fundamental memory for CHNN is less as compared to AHNN, also it converges to the correct fundamental memory significantly more times than AHNN. Lastly, as long the size of cloud is not large the network does not suffer from oscillations of state as well. Thus, CHNN is a better retrieval algorithm as compared to both SHNN and AHNN. 
 The complete paper can be accessed at: <http://ieeexplore.ieee.org/document/7275610/>
+
+Further the model has been used for face recognition: Where CHNN is able to give at least 82.8% successful retrieval as compared to only 63% by conventional HNN for the same amount of distortion. <http://ieeexplore.ieee.org/document/7566167/>
+
+
